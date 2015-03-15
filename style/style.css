@@ -1,6 +1,6 @@
 .scrobbler-caller {
 	position: fixed;
-	z-index: 99999;
+	z-index: 1999;
 	top: 0;
 	right: 0;
 	width: 65px;
